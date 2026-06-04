@@ -290,3 +290,5 @@ export async function getJournals(dateStr?: string): Promise<Journal[]> {
     return []
   }
 }
+
+export { analyzeJournalText, getLocalDateString }
