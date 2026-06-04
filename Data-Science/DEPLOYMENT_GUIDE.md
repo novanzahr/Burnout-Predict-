@@ -4,11 +4,11 @@
 ## LANGKAH 1 — PERSIAPAN FILE PROYEK
 ## ═══════════════════════════════════════════════════════
 
-Pastikan folder proyek Anda memiliki struktur berikut:
+Pastikan folder proyek memiliki struktur berikut:
 
 ```
 burnoutlens_dashboard/
-├── app.py               ← File utama dashboard Streamlit
+├── dashboard.py               ← File utama dashboard Streamlit
 ├── requirements.txt     ← Daftar library yang dibutuhkan
 └── README.md            ← Dokumentasi proyek (opsional, tapi direkomendasikan)
 ```
@@ -175,7 +175,7 @@ git push origin main
 ```
 
 Atau via website GitHub:
-1. Buka file `app.py` di repository
+1. Buka file `dashboard.py` di repository
 2. Klik ikon pensil (Edit)
 3. Lakukan perubahan
 4. Klik "Commit changes"
