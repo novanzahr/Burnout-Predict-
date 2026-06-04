@@ -4,7 +4,7 @@ Folder ini berisi notebook pemrosesan data capstone project untuk deteksi dini r
 pada pekerja berbasis analisis data harian pengguna.
 
 ## Isi Folder
-- `burnout_prediction_capstone.ipynb` — Notebook utama pemrosesan data capstone project BurnoutLens
+- `Capstone_Projek_Akhir.ipynb` — Notebook utama pemrosesan data capstone project BurnoutLens
 
 ## Deskripsi Project
 BurnoutLens adalah platform berbasis AI yang mendeteksi risiko burnout secara 
