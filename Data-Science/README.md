@@ -34,7 +34,7 @@ Data-Science/
 ---
 ## Fitur Dashboard
 
-- **Overview** — Latar belakang, KPI, dan business questions
+- **Overview** — Statistik dataset keseluruhan
 - **Business Question** — Analisis pertanyaan bisnis berbasis data dan visualisasi insight utama
 - **A/B Testing** — Perbandingan threshold konservatif vs agresif
 - **Simulasi Prediksi** — Input data harian dan estimasi risiko burnout
@@ -53,7 +53,7 @@ cd burnoutlens
 pip install -r requirements.txt
 
 # 3. Jalankan Streamlit
-streamlit run app.py
+streamlit run dashboard.py
 ```
 
 Buka browser di: http://localhost:8501
