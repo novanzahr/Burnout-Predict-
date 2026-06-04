@@ -11,7 +11,7 @@ Output model berupa probabilitas untuk setiap kelas emosi, seperti `anger`, `fea
 ---
 
 ### **Download Model**
-Karena ukuran model cukup besar, file `.keras` disimpan menggunakan Google Drive.
+Best Model NLP dapat diakses pada google drive file `best_model_nlp.keras`
 
 Link Drive:
 https://drive.google.com/drive/folders/1gKXW6iX2OflXCUjn9y9Tgi4qhYJhlNnK?usp=sharing
