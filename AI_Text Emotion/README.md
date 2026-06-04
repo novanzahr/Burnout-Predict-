@@ -6,7 +6,7 @@ Model ini digunakan untuk melakukan klasifikasi emosi dari input jurnal/diary da
 
 Model dikembangkan menggunakan TensorFlow/Keras dengan pendekatan Deep Learning. Arsitektur model menggabungkan pretrained FastText embedding, Conv1D, Bidirectional GRU, Attention Layer, serta pooling layer untuk menangkap pola emosi dalam teks.
 
-Output model berupa probabilitas untuk setiap kelas emosi, seperti `anger`, `fear`, `happy`, `love`, dan `sadness`.
+Output model berupa probabilitas untuk setiap kelas emosi, seperti `anger`, `fear`, `happy`, `love`, `sadness`, dan `Netral`
 
 ---
 
