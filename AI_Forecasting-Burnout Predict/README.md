@@ -229,6 +229,10 @@ questionnaire_score
 
 # Model Files
 
+Drive Best Model Forecasting Time Series `best_burnout_model.keras`:
+
+Link Drive: https://drive.google.com/drive/folders/1gKXW6iX2OflXCUjn9y9Tgi4qhYJhlNnK?usp=sharing
+
 | File                       | Description         |
 | -------------------------- | ------------------- |
 | `best_burnout_model.keras` | Saved trained model |
